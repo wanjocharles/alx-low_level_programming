@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prog Entry point
- * Retrun: Always o (success)
+ * Retrun: Always 0 (success)
  */
 int main(void)
 {
