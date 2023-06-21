@@ -1,8 +1,9 @@
 #include<stdlib.h>
 #include<time.h>
 #include<stdio.h>
+
 /**
- * main - Prints the last digit of randomly generated numbers
+ * main - Prints the last digit of randomly generated number
  * and whether it is greater than 5,less that 6,or 0.
  *
  * Return: Always 0.
