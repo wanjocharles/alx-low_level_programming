@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prog Entry point
- * Retrun: Always 0 (success)
+ * main - prog prints all possible different combinations of two digits
+ * Return: 0 (success)
  */
 int main(void)
 {
