@@ -2,9 +2,9 @@
 #include<time.h>
 #include<stdio.h>
 
-/*
- *
+/**
  * main - Entry point
+ *
  * Return: Alaways return 0 (success)
  */
 int main(void)
