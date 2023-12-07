@@ -17,7 +17,7 @@ if (h1 != NULL)
 while (h1->prev != NULL)
 h1 = h1->prev;
 i = 0;
-while (h1 !=NULL)
+while (h1 != NULL)
 {
 if (i == index)
 {
@@ -30,7 +30,7 @@ if (*head != NULL)
 else
 {
 h2->next = h1->next;
-if(h1->next != NULL)
+if (h1->next != NULL)
 h1->next->prev = h2;
 }
 free(h1);
