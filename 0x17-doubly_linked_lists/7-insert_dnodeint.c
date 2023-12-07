@@ -18,7 +18,7 @@ if (idx == 0)
 new = add_dnodeint(h, n);
 else
 {
-head= *h;
+head = *h;
 i = 1;
 if (head != NULL)
 while (head->prev != NULL)
