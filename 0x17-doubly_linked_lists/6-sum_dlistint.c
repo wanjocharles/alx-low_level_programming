@@ -1,6 +1,6 @@
 #include "lists.h"
 /**
- * sum_dlisint - returns the sum of all the data (n)
+ * sum_dlistint - returns the sum of all the data (n)
  * of a doubly list
  *
  * @head: head of the list
@@ -9,7 +9,7 @@
 int sum_dlistint(dlistint_t *head)
 {
 int sum;
-sum =0;
+sum = 0;
 if (head != NULL)
 {
 while (head->prev != NULL)
