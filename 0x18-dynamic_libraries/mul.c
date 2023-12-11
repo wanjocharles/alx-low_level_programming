@@ -1,12 +1,12 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * mul - mul two integers
+ * multiply - multiply two integers
  * @a: first int
  * @b: second int
- * Return: multiply
+ * Return:final answer
  */
-int multiply (int a, int b)
+int multiply(int a, int b)
 {
 return (a * b);
 }
